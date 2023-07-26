@@ -9,4 +9,3 @@ convert(3) ➞ 180
 
 convert(2) ➞ 120
 ```
-[Challenge Solution](https://edabit.com/challenge/8q54MKnRrm89pSLmW)

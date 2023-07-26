@@ -25,4 +25,3 @@ checkEquality(0, "0") ➞ false
 checkEquality(1,  1) ➞ true
 // A number and a number: the type and value are equal.
 ```
-[Challenge Solution](https://edabit.com/challenge/BGvTMfwxYDRbtaTJ3)

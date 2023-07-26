@@ -9,4 +9,3 @@ lessThan100(83, 34) ➞ false
 
 lessThan100(3, 77) ➞ true
 ```
-[Challenge Solution](https://edabit.com/challenge/9MjEpkL7yAjAqiH58)
